@@ -9,9 +9,7 @@
 
 ## Project Info
 
-
-Welcome, in this project we created a QR Code (Quick Response Code) with the simplesoftwareio/simple-qrcode package, which can be used to connect to a Wifi.
-
+Welcome, in this project we created a QR Code (Quick Response Code) with the [simplesoftwareio/simple-qrcode](https://www.simplesoftware.io/#/docs/simple-qrcode) package, which can be used to connect to a Wifi.
 
 ## About Laravel
 
